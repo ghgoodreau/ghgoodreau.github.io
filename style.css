@@ -4,6 +4,8 @@ body, html {
     margin: 0px;
     font-family: 'Roboto', sans-serif;
     color: black;
+    /* NOTE: style change from normal to all lowercase. testing this out. */
+    text-transform: lowercase;
 }
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://lh3.googleusercontent.com/sRuzuf5svCQQMkIf3_fH15UoUz2JoUABUL2i0Nw_bibfzxgHeAfD6sRFjzDI1WQwJ7u6RqT8tvsSw9zLezGeGZOXT7LzaA-xzH1q5hXZqNsAlaU9ml-GKQbRFoQT6yHuFG_wO5TehcR90dj7cFUp5pDdb5b354wOmuvZkHHLQ1RpSPZ2FsyVpVYsLckSVJ9ZEBTJtI7WN9jzYchyHS0SLXxX3KYPInriX-Tqanj1t9DWpks03Nm3PKs7N4YGGgoYhxTyeKrB0VnDIf19lQ_0bQ_LKk6tcZaGvFhVM7rdAGn2CpMgbc-Yh95Dy3loinwUihBYl4_-fHQvFdT8oxiVA3BHn26iIXXz8abNyBDZzIhBu-LlntOnO5ja-arhe0BfVzbJoplglmawgF5j-ifYW1sfrUp-cgPl5WPyY37GEmD3hnzUG5h9NkKxpmDeSUMiXFdzBcKS3EoBII5fbL7c4tbgtvby4YLB67MtrZ8NxE3MGygPP2ny_N4SogF1DvUZEQ7ZlWTA2d9YIu3tzf95jVX0kLx2_V_aNdEC2rXRqxeZ3L05xJem5FAScVL9XVPbwExUNYn5LhGjJak0vwv1hHFsrMOWhiPhVnLJ-XTu2NXxKxEjwnpV1cLA8SkXWeUME4XKb9Cfptw4tgWamLvV6-YmlcKAMnKsqJ9Bi8OnyENwHa4P1wgcWiXUqedbxBrHmOjtqMQSH99GCrrXISx-td4W=w2164-h1442-no");
