@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I graduated from Auburn University in December of 2018 with a bachelor's degree in Biomedical Sciences. I am currently pursuing my second bachelor's degree from Auburn University in Computer Science, while also working full time.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am slated to graduate in the spring of 2021. My goal is to continue through a master's degree in Computer Science and to work on exciting and challenging problems. I believe that the field of computer science contains limitless possibilities, so it is the path that I have chosen.
 
-There are currently two themes built on Poole:
+In the meantime, while I continue my studies, I am seeking an internship (or a full-time job) where I can work hands-on with new technologies and absorb everything I can.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Some fun facts about me: I am a student pilot. I am an avid international backpacker. Seeing a good movie at the theater is one of my favorite things to do. I love video games. I still want to be an astronaut. I drink two cups of coffee a day, but I'm trying to cut back.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Some technologies I have been working with: HTML, CSS, Javascript, Java.
