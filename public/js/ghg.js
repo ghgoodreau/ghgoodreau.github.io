@@ -44,7 +44,7 @@ function addColorButton() {
     var colorButton = document.createElement("li");
     colorButton.id = "color-button";
     colorButton.onclick = function() { updateColor(); };
-    colorButton.innerHTML = '<a class="btn-social btn-outline" title="I wonder what this does..."><i class="fa fa-fw fa-question-circle"></i></a>';
+    colorButton.innerHTML = '<a class="btn-social btn-outline" title="Color Switcher"><i class="fa fa-fw fa-palette"></i></a>';
     console.log(colorButton);
     buttonList.appendChild(colorButton);
 }
