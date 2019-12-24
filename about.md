@@ -4,7 +4,6 @@ title: About Me
 ---
 
 &nbsp;
-&nbsp;
 I graduated from Auburn University in December of 2018 with a bachelor's degree in Biomedical Sciences. I am currently pursuing my second bachelor's degree from Auburn University in Computer Science, while also working full time.
 
 
