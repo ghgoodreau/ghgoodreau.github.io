@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -14,7 +14,11 @@ baseurl:          /
 
 author:
   name:           'Gregory Goodreau'
-  url:            https://twitter.com/ghgoodreau
+  url:            ghgoodreau.github.io
+  email:          'ghg0004@auburn.edu'
+  github:         'https://github.com/ghgoodreau'
+  twitter:        'https://twitter.com/ghgoodreau'
+  linkedin:       'https://www.linkedin.com/in/ghgoodreau'
 
 paginate:         5
 
