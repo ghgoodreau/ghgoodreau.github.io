@@ -47,12 +47,13 @@ h2, h3, h4, h5, h6 {
   }
 }
 
-/* trying background */
+/* can't get this to work rn
 @media only screen and (min-width: 768px) {
   body {
     background: white url('{{ site.baseurl }}/assets/bg.svg') no-repeat bottom right;
   }
 }
+*/
 
 /* From Bootstrap */
 .list-inline {
