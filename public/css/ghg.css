@@ -47,11 +47,6 @@ h2, h3, h4, h5, h6 {
   }
 }
 
-.sidebar-about h1 {
-    font-family: "Montserrat", sans-serif;
-}
-
-
 /* From Bootstrap */
 .list-inline {
     padding-left: 0;
