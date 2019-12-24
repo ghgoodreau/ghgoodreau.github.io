@@ -1,96 +1,37 @@
-<!-- NOTE: personal website -->
-<!-- NOTE: Author: Gregory Goodreau -->
-<!-- NOTE: version 10.29.19 -->
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>//ghg</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  // Add smooth scrolling to all links
-  $("a").on('click', function(event) {
+---
+layout: default
+title: Home
+---
 
-    // Make sure this.hash has a value before overriding default behavior
-    if (this.hash !== "") {
-      // Prevent default anchor click behavior
-      event.preventDefault();
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-      // Store hash
-      var hash = this.hash;
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top
-      }, 800, function(){
-
-        // Add hash (#) to URL when done scrolling (default click behavior)
-        window.location.hash = hash;
-      });
-    } // End if
-  });
-});
-</script>
-  </head>
-  <body>
-      <div class="hero-image" id = "top">
-    <div class="hero-text">
-      <h1>//GREGORY HUNTER GOODREAU</h1>
-      <h2>SOFTWARE DEVELOPER.</h2>
-      <br>
-      <p>
-      <!-- NOTE: fancy buttons -->
-      <a href="mailto:ghg0004@auburn.edu" class = "button">EMAIL</a>
-      <a href="#aboutmesection" class = "button">GET TO KNOW ME</a>
-      <a href="assets/resume.pdf" class = "button">RESUME</a>
-      </p>
-    </div>
+    {{ post.content }}
   </div>
-  <div class = "aboutmesection" id = "aboutmesection"><br><br>
-    <img id = "aboutme" src="assets/myface.jpg" alt="">
-    <!-- NOTE: about me section -->
-    <p id = "hello" class = "hello" name = "hello">Hey!</p>
-    <p id = "aboutme1" name = "aboutme1">I graduated from Auburn University in December of 2018 with a bachelor's degree in Biomedical Sciences. I am currently pursuing my second bachelor's degree from Auburn University in Computer Science, while also working full time. I am slated to graduate in the spring of 2021. My goal is to continue through a master's degree in Computer Science and to work on interesting and challenging problems. I believe that the possibilities of computer science are limitless, and that is where I want to devote my time throughout my career. In the meantime, while I continue my studies, I am seeking an internship where I can work hands-on with new technologies and absorb all the knowledge I can. </p>
-    <br><br>
-  </div>
-  <div class = "aboutmesection" id = "experiencesection">
-    <br><br><br>
-    <img id = "roadimage" src="assets/bridge.jpg" alt="">
-    <!-- NOTE: short experience section -->
-    <h2 class = "hello" id = "experiencehello">Experience <a class="ui-tooltip" title="too long; didn't read"><span style="cursor: help;">TL;DR</span></a></h2>
-    <p id = "experiencedescription">I'm currently working as a substitute teacher for Bay Haven Charter Academy and as a Guest Ambassador for 360 Blue in Panama City, Florida. In the past, I have worked as a supplemental instructor and study partner at Auburn University. These experiences have taught me to communicate well, solve problems, and manage large groups of people. Also, I have worked with both RStudio and Python to visualize data during my studies in Biomedical Science. I have taught myself HTML and CSS, which I used to code this website, and I'm currently tackling Java in my formal college coursework. My diverse array of experiences allows me to approach problems from a unique perspective. </p>
-    <br><br><br>
-  </div>
-  <!-- NOTE: something personal -->
-  <p class = "aboutmesection" id = "photoheader">Along with software development, I am an amateur photographer and backpacker. Here are some photographs from my travels.</p>
-  <div class = "container1">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/rBMu22RkL9K88qDLjs4ekiTGwe8xOU443HGkmZqElg_WTAKCFVCIVFnfnIIctkATQKc1AdkvSlGBTsegf8ndRQXe4O_L-ZUpXvNBYIdsPDCAVqCv4LfSaFGminmwleU2A_Ua_LqE1WllNIeOSrPG3JEhamKktr2I6F5GiRIvCga8mMO5lIWs3g0hvfcghCqpkXfQRvOoqeSF9P6DWfuNBYnRmilITDR2O0WU8JOJulX_ZldTlCShx13ae6bNfA6zkYO4eg6tJTZE-o-WCdFDMungGcc2_mEVqOiffoshBUE2W-DRl2gFH7It1nESQr2aHKQcKdLMN4uM5tB1NvvBFHoLzj1e7XkrFeNJ21iAFQ7z5l4DV4mDa8-QhCe2eStjPXhSO5klknej1nBNau1HJdLqtcXKJaPPNPkLWXG6k0vc2cUJGYViVbElqAmptIwndbSXpWdjoN1wJjYgBfwG-sbW8aXIaSCwChzWofQMfDrtdHgPi4VWYZfJMXAYce4pmZcUKeCR_vXGikHU7NiAYJ_Z6mMSs4ksNExNO2IcmGqWDDQO2HQokYq0wJzyCds5HkPh151h0RDBFp_4rH-76SsfxbiYlu_J5X_XJQPW2tcvxqeOtCrcmBBYRvjIVmFckLzvzjv5RCFyGV2xMVEUNe9Lehf20Ngvx0U5EB_tvVZsR8zOcO3VkkEacLfyb67ykZXuCwQFXWmN2Dh0l3rJOaPE=w2096-h1396-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/5T0t-Zjd6mcAeD7_KMBmYLasY9GbgvbTTq7uchZXMsEwTHfz7djt7CdQLq4Qt95p5M7BFnjfmtVJAyBnNH8Cc76-StEMsxtJUpr7oKZ7eUhIMe9UxQCWZJOfUULw21DCCHFF9pCbJb1LPPgvx1Rs_zThmGLn-DNSNp74eS0YPxsQj_kYv6_uMb9HVd_A8_aMx-wstBYrTCF0BNuQxa96cZt_b-RE7L6bzrWziciqlLEpmen0wgihFMxPCSvhAQddQClNWD_jn3FQaIQ2LvOluG-jqVNT3VTVaM8eRwnkw6uCMuQEgrLbWx_R6CjKDT6HkL4Kk6cF8KeNSfaZSZFCouOvZM2bM6Wa_8TzxV-J4TOfT2p9RQwLmfUJ9RAuhk5dKOKf8BMZXyOLY-P6bjo7djNSllhDu5LO2s_Xzl5kEo6hTlmDbbCo2dVMTI5PqyWGqwZhiVZ10dkZEAeV7xqFzKmEYratRDSbEZSSGsRZxZ7qNUGMsHzMd3ad4ypxi1nXKaW773N7kh91zCGZ4YqZ2PFdDqsh_0meit4p7WXaNy8DJTeIZyFDY4aI88CL3HTjTYlj4Ucna-6GtKp6tQsWZAi_wZ9o-7wONCJhS_W1S3HUAiUPfzgUg5Xk0l_1I0xNL5ztMEdo0wyKcJT0jNKsdxU3VtClxRYZo8e4xK9liXaRKkVNrjZfAcC06WkcEaxqcwABBMNwaHVuiz8vU6Edp0CG=w2096-h1396-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/wTx8RsQcmaZeVsl77KjPBBuiElrbBSb3ojatlTRzEmgHB-NsuANxGXZ7mvWDnPQ5DDJiG-39S_OAWBXuZbFOozfPDAkjAk2O0-IlFgWNMysVx7vLUsnycYi1NeYpRKD1eOY066IX8hjZJeq4M3OVY3jtQNgj3u5a-CPk-iJMj81f0-YGnzJpoHNn4oboeaiSnmxwBw5QRGYOoaOlJSj5MD8yPw6k16azU6FEYaAk8PhjK90feF0zzFmVpxMVKvRUtgSBLIV3Oip6nVu5btn_OkXBI7rDpZoVx-mag3R2smI-aLdMNVNbE_wbGoEyLdujzaDD2Sr8gAx4nl_tipzg0O_CSl0jY9rPaDzNNkmk3LwbW6pR0Wj6AOZQa6wrcvjb2_qh-0cnbqoZ-WI983qQXIIftuEhS4PmanLW3Pl1a3GLVDnzJ2zNiI7Oujg4bbMvV7yACeJsPCF-I3F8cJDv2PWO1_yOd1sA5dMLfFL6Ol5ynbCwG5cnCNOiZxTK5CcNRqYd91q-wr6LTWhGhOb84t7xyFHh6Ln_GtfMgob9CruU1_42WQt5T3t7i2CANWNGgBDDv09UXGHYIsIbFIYkFo5VQ2OMP1KKY7FqMHQxu_Y0qOcvF9lMZef3xXxt9Srcdkj4MdysgMfBBo0fcxSMbIPPIIOZ0NEHXGHBjz4DsLpnDYEsV5Fo1JNmmcOWBUKAIIELFFNLSb7gn29_DI0s_JSD=w2096-h1396-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/NTeE7Vll4VRNHcH7GRVsNuaifxdEVqoePjsmGwrDi9xEYyOJZht-YdXoqIYBwUWtPez535JIBgAEFZrJiFUsiA2Z5zM07EX6ax1AANeMDatcFjJljmLBuCdRr8EWKh2yPgiYS3O5s20sXreEitXd87VKF8elcmQlh6BjcyienKiYXvQSsOVoixY_muGpEVXki-GCoNmxKNpO11U2dFVcYXCcVStoji8pxCZZZWP2kxhLgWXsQwA_w22htr_sWWecAlR1Y7AXgHFIvLxPLLEn6mdednE7O8jkT1krjOTN4ym_xy8xWOwHQYri6nzwlU4htxK4ki_5YPysvluroRaFGEVijwJ0HQGSpoovgOoqHwuxrRtJeSI_nxipaKVuCU_KzoIcIg7pE9mkfAmU_TIT9FYTyiCTsqoS2SDL2f1Poc1NMVn7d5Q7NcKXpaCHnXBluLuIHMXkD8hg474XybMb59pVOvDTh2K3ZxCScC3_cWrGrBVbzO38QWugvjYW5e7JL1GLl3tnuuhbKasE5NIjZRAB3awY3NhTOBdHs619ggJ_EgnPC0qGq6OA6PrzX4yg81TPjsrvfreoxV6dG6VKsMmho4f-te3HsujkpTSDc-VrYuBRtp7-Hbd9yhs00jIwzQK57mLhJ36y4bCoha72lqXZjpnf6Z1qtWK6iJz5XhMcGHwDSPLYj4ulcLZQXSeQQGw0Rqoq93O7zHkjEYhFlJ8i=w2096-h1396-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/Z7fOjsWxF9o5rDWffafp2WnPTjrrwqHyH0TQf96TcRyY3gAVlU5qGM7JK646c0s_0oVTyyn6vW4Ct6WTRGtQqFWCaYyVOaOUkaF6Gl9_brhKiPje7JGTziaCYTiSvIcoAqQsj7jNql1n3-RtetpfD8iJ-rZZLZAH2Rp6qLB5fpV6VgRei2rYu8J6DQO6953fBpqgl5voIefBN-wm7uoWmoPE9RKhcN5zmIJ8oRToBKB94Lc0ehW0p9WtQFSeSf4qM9dBFdBgm6Lupmi66v7DXMLp9ENTpanfaag2hH-e-VVEf0KDRXZpTiZTHvXsNitoCYMaLR2OYzGMoVKrrRCpi1to9WUvAXztwRmXv_LEZ5arMQoJ5b3qDKEiU_rE7nPQ2qtnLzw03ay1w0kKBCKuDe1hoSUk09tlF08Pppqm6AD5QOGlj76AaUJDs4FG9BTQFWUODHwELk4_tt0BsBMJT8yFZZE6zCZUBEglmnb71ooUukSDUPd0Ca5A5FTiXTOQO3HuoMqBOdB8n07pEXnqVF1PbCO_2NdUoKZuUxfRZoChSHUU6WGIIW_u9OVDpFImdbI_T_ITpvKCO2yuLpFLxFJjT6aFcCiv5THp3VAqE23pHo6TL8gj1wjohCR-RHH4eGD_GPZhUdGVK9Lih-4U5Xjtmmh_2JSmvas1fWU-LPw64k4Kip4ip0MajVGL1HR958vV3IUvilpKxiA_Kc4Og6Zb=w2164-h1442-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/txbwo7J-dNa6SyzHt8nkzcdc53CvQpd4vVI7NYNqKcJEMY7BHYXIIekdEa95zct5UDK1BQOyJuDccoG7W-JHcy8SXtC845Y2LkBMC_vHBAtX0NE7SSFUDXn45Gilpvuql3himnRGVHtPXNnEoZce_uBdqTABdoYSwKNcKRYtME-jDwAobU7K_tEHxn1CANwjIVjZdkKPSWNw_185mht2UXPImTwFGXxwit3rw7MXZXNpzgVfFoLa5DBnbgtnTYXDNEQl82TjKQkiNRJaXsxoEwLOG209JDm6p2FYpIG2jf6pAeJi40Tjp5141hLM_sixQYRSEgQtw5dGdaTRwNV-9Jib-SS-HOiJ3dhJYcuXd-J2m7ikvX9BzkmpzA2oHN7obeMc0P6CFmjxq25oVCCJ8QOaRk9t5bYtdlu8UOVXQZ2Lx1re9foJ01OIWL-jQxk7XIuG6ZgWbNkw93IO_amiglA_XfCWd-JlGWS7xQ3lRyjr-vFZbD3ZaJllAkHRBVAtsoMK88gH4177xF-Bd_SgOTNc8xmbx4FDQX8okNLVOzNTHvCdKvaWjdMF5HmEjtoVHNj2pXAE_i7UTxMIFV8RWUe603qAJcCEuj6PnVh8fD0eMwBpk2xQV5WP2T1I3AkzHC8BaBT2emJ6IgYzs1I6DZUx1w3DrE19yPDRMyqaMacNWrdYU_wNpIa8bYX4djfbn-jTrU3cEficIFXUksRFKVPT=w2164-h1442-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/SAks5oH_gB2cz1uqxTt-pE6t68vWOGkGg_TlqOVHG_G42wn_cPMX85vUzy817sVIVKS9_jrv_Kto2RD8VCL9xiK4sQgAiTVXZtzLa1S4jkjJ_gPlNd79TkI08p60d7vSoPjG-2aY1vQ_MmJaGThp9c2WTp55iJ_gNOmckO8DIeGHo20nfKbkf_MHeo6yF_nOm3xty0ZC3c34Au8ILb9WUoseh_w4WfBpO_27C43qoqMA6Q3Cyms2D7YBzkXoKefQtbWhagxpT_zX4C8YdJZZXq-9xKDcTAWxjVONOcl9Co8QgpkIM1fTrDbf8pnyJFQy3YzBbTq03Y73wIyNHM6YZEoCFj-McXVBV8q362V8F7mGvQac9fwxBDFp6zfB1hFt2A2L-iNYMEO3m_yio9gMUfG5M9sdiD2N282Uerk7Zi7pL6usq75Kt_haZ-pciQX2OL10h59GSAqSkY4SKvaMjrPBokihiySZeywd1g6VqqrQasj9riYdEpNXlMovCUQt3U-rrscXeeyA4PV5K_cyHPjiG8Dj4aLn5w3v0njHVdcQEpqOIebcZqKx8KDqO2oO82J6IWpfCqu54xNotz5QCxnM9KoFbR1zDWTBDxSSc-7tLbC8kc_ucJBuUAlnl0L2LYYqcaTTt798K8K6Ak_5dw_SvYJR9am-tjC718Q3P63XMUY8LNib-pFeruI8gzGwNYZpqJC7sxpej13HoYxJ37TD=w2164-h1442-no" alt="">
-    <img class = "scenic" src="https://lh3.googleusercontent.com/lAA30L2MP5A7FPF5as8C9XmYNUhe4ZXQjJo_B8Fb2KLv4giOg-CDf2qiiObmlb9WVJ3F3sYh76c5CEdoGA_AeWezKmrmh-mU6Ar9WQhJw6baJJtJOSwZfgTJMiPahC49A-z--oIhFhIy0NWhR0tPOhOSzxzdglYp13GH7QwMjyiZoCk4hGVvKET9sTnVUf2vVssQEc6f0XJka0HGdpBioMLbfhRTdTGmkY618X_w3HLfKz2rTkmsia3qfuDMI7O9Y_8XZHzvy454DoJ3uU4OFVnJp2ZPpGfCe_f9j6NzLicVXMt_YUEPBJs04cEjR-s_-XcD2coryydM8MfC2w_4aeTsI6Iq2uJu7poE42kDKQ7FF43IG9yMiH_h-ewFTlSmL0UhX4fKePoaflbyf5zE2KgcyLcnY_IA4_rZ7eOlDZmrwalU1Lyk83kRtZh1UveDVV5VBcBITGOdu-LxWlWGYxSY3KbjP8bCsaseyF3i3dkPU1wKOz7t6LBcy-mLNV0oFaATfIVTkvLIGuKZVjMweSVe_MkTE2dKSI78sjakeqxPDQbu6SJLxG0HZxumwY68MunKOFuf_TGk39oo7FTU_6XLbiGO26BBAcK6km7FCpDxkh4qCx8vqQVwqG61_Sz0IGLUHpztfXyWTe4QesELXLyHwEwfsl2dBRGJIlaV6xmvVw--fAU9ARo91SWwPeBiYYQ5UU5GmDR1TdVeBarnPIoU=w2164-h1442-no" alt="">
-  </div>
-  <hr>
-  <br>
-  <div id = "topbutton"><a href="#top" class = "button">TOP</a></div>
-  <div class = "icons">
-    <a href="https://www.instagram.com/ghgoodreau/" target="_blank">
-    <img class = "iconimages" src="assets/instagramicon.png" alt=""></a>
-    <a href="https://www.github.com/ghgoodreau/" target="_blank">
-    <img class = "iconimages" src="assets/githubicon.png" alt=""></a>
-    <a href="https://open.spotify.com/user/o0w44i8fzljecs174msew1adw?si=5bxclMKwS1aCnoWZ7UC-aw" target="_blank">
-    <img class = "iconimages" src="assets/spotifyicon.png" alt=""></a>
+  {% endfor %}
 </div>
-<!-- NOTE: nice inspirational quote! -->
-  <p id = "nicequote" name = "nicequote">"Every great developer you know has solved problems they were unqualified to solve until they actually did it."
-- Patrick McKenzie
-</p><br>
-  </body>
-</html>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
