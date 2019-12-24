@@ -50,7 +50,7 @@ h2, h3, h4, h5, h6 {
 /* trying background */
 @media (min-width: 768px) {
   body {
-    background: white url('../images/bg.svg') no-repeat bottom right;
+    background: white url('../assets/bg.svg') no-repeat bottom right;
   }
 }
 
