@@ -50,7 +50,7 @@ h2, h3, h4, h5, h6 {
 /* trying background */
 @media only screen and (min-width: 768px) {
   body {
-    background: white url('../assets/bg.svg') no-repeat bottom right;
+    background: white url('{{ site.baseurl }}/assets/bg.svg') no-repeat bottom right;
   }
 }
 
@@ -261,46 +261,46 @@ figure {
 /* COLORS */
 
 /* Red */
-.theme-base-08 #sidebar-buttons {
+.theme-base-08 #sidebar-buttons, svg {
   color: #ac4142;
 }
 
 /* Orange */
-.theme-base-09 #sidebar-buttons {
+.theme-base-09 #sidebar-buttons, svg {
   color: #d28445;
 }
 
 /* Yellow */
-.theme-base-0a #sidebar-buttons {
+.theme-base-0a #sidebar-buttons, svg {
   color: #DCAC69; /*#f4bf75;*/
 }
 
 /* Green */
-.theme-base-0b #sidebar-buttons {
+.theme-base-0b #sidebar-buttons, svg {
   color: #90a959;
 }
 
 /* Cyan */
-.theme-base-0c #sidebar-buttons {
+.theme-base-0c #sidebar-buttons, svg {
   color: #75b5aa;
 }
 
 /* Blue */
-.theme-base-0d #sidebar-buttons {
+.theme-base-0d #sidebar-buttons, svg {
   color: #6a9fb5;
 }
 
 /* Magenta */
-.theme-base-0e #sidebar-buttons {
+.theme-base-0e #sidebar-buttons, svg {
   color: #aa759f;
 }
 
 /* Brown */
-.theme-base-0f #sidebar-buttons {
+.theme-base-0f #sidebar-buttons, svg {
   color: #8f5536;
 }
 
 /* Black (no class on body - Poole defaults) */
-#sidebar-buttons {
+#sidebar-buttons, svg {
   color: #000000;
 }
