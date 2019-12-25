@@ -19,7 +19,7 @@ Some fun facts about me:
 - I am an avid international backpacker. 
 - I still want to be an astronaut. 
 - I love [video games](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion).
-- I drink two cups of coffee a day, but I'm trying to cut back.
+- I was eliminated in the final round of an elementary school spelling bee because I misspelled buffet. I still think about it.
 
 
 Some technologies I have been working with: 
