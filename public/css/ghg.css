@@ -57,7 +57,7 @@ h2, h3, h4, h5, h6 {
   .main {
      margin-left: 20rem;
      height: 100vh;
-     background: white url('ghgoodreau.github.io/assets/bg.svg') no-repeat bottom right;
+     background: white url('/assets/bg.svg') no-repeat bottom right;
      background-size: 70%;
   }
 }
