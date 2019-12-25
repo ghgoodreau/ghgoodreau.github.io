@@ -52,6 +52,14 @@ h2, h3, h4, h5, h6 {
   }
 }
 
+/* trying to style main for BG */
+@media (min-width: 48em) {
+  .main {
+     margin-left: 20rem;
+     height: 100vh;
+  }
+}
+
 /* From Bootstrap */
 .list-inline {
     padding-left: 0;
