@@ -37,12 +37,9 @@ h2, h3, h4, h5, h6 {
 
 
 /* Override Hyde/Poole */
-/* may need to make margin-left applicable
-to only content and not container */
 @media (min-width: 48em) {
   .content, .container {
     max-width: none;
-    margin-left: 0rem;
   }
 }
 
@@ -58,7 +55,12 @@ to only content and not container */
 /* may need to make margin-left applicable
 to only content and not container */
 @media (min-width: 48em) {
-  .content, .container {
+  .content {
+    margin-left: 0rem;
+  }
+    
+@media (min-width: 64em) {
+  .content {
     margin-left: 2rem;
   }
 
@@ -69,14 +71,6 @@ to only content and not container */
      height: 100vh;
   }
 }
-
-/* having to fix margin-left for .content because
-of main ^ */
-/*@media (min-width: 48em) {
-  .content {
-     margin-left: 0rem;
-  }
-} */
 
 /* From Bootstrap */
 .list-inline {
