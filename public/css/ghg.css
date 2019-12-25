@@ -67,7 +67,7 @@ to only content and not container */
     margin-left: 0rem;
   }
 }
-    
+
 @media (min-width: 64em) {
   .content {
     margin-left: 2rem;
@@ -300,5 +300,4 @@ figure {
 /* Black (no class on body - Poole defaults) */
 #sidebar-buttons, svg {
   color: #000000;
-  fill: #000000;
 }
