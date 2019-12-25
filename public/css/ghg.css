@@ -37,6 +37,8 @@ h2, h3, h4, h5, h6 {
 
 
 /* Override Hyde/Poole */
+/* may need to make margin-left applicable
+to only content and not container */
 @media (min-width: 48em) {
   .content, .container {
     max-width: none;
@@ -52,6 +54,13 @@ h2, h3, h4, h5, h6 {
     padding-top:4rem;
   }
 }
+
+/* may need to make margin-left applicable
+to only content and not container */
+@media (min-width: 48em) {
+  .content, .container {
+    margin-left: 2rem;
+  }
 
 /* trying to style main for BG */
 @media (min-width: 48em) {
