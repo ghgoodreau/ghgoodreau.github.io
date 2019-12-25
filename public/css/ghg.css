@@ -59,6 +59,7 @@ h2, h3, h4, h5, h6 {
      height: 100vh;
      background: white url('/assets/bg.svg') no-repeat bottom right;
      background-size: 70%;
+     overflow-y: auto;
   }
 }
 
