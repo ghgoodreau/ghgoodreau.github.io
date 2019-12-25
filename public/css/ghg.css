@@ -252,49 +252,49 @@ figure {
 /* COLORS */
 
 /* Red */
-.theme-base-08 #sidebar-buttons, .theme-base-08 .cls-1 {
+.theme-base-08 #sidebar-buttons, .theme-base-08 svg {
   color: #ac4142;
   fill: #ac4142;
 }
 
 /* Orange */
-.theme-base-09 #sidebar-buttons, .theme-base-09 .cls-1 {
+.theme-base-09 #sidebar-buttons, .theme-base-09 svg {
   color: #d28445;
   fill: #d28445;
 }
 
 /* Yellow */
-.theme-base-0a #sidebar-buttons, .theme-base-0a .cls-1 {
+.theme-base-0a #sidebar-buttons, .theme-base-0a svg {
   color: #DCAC69; /*#f4bf75;*/
   fill: #DCAC69;
 }
 
 /* Green */
-.theme-base-0b #sidebar-buttons, .theme-base-0b .cls-1 {
+.theme-base-0b #sidebar-buttons, .theme-base-0b svg {
   color: #90a959;
   fill: #90a959;
 }
 
 /* Cyan */
-.theme-base-0c #sidebar-buttons, .theme-base-0c .cls-1 {
+.theme-base-0c #sidebar-buttons, .theme-base-0c svg {
   color: #75b5aa;
   fill: #75b5aa;
 }
 
 /* Blue */
-.theme-base-0d #sidebar-buttons, .theme-base-0d .cls-1 {
+.theme-base-0d #sidebar-buttons, .theme-base-0d svg {
   color: #6a9fb5;
   fill: #6a9fb5;
 }
 
 /* Magenta */
-.theme-base-0e #sidebar-buttons, .theme-base-0e .cls-1 {
+.theme-base-0e #sidebar-buttons, .theme-base-0e svg {
   color: #aa759f;
   fill: #aa759f;
 }
 
 /* Brown */
-.theme-base-0f #sidebar-buttons, .theme-base-0f .cls-1 {
+.theme-base-0f #sidebar-buttons, .theme-base-0f svg {
   color: #8f5536;
   fill: #8f5536;
 }
