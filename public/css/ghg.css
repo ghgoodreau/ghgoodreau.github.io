@@ -66,11 +66,13 @@ to only content and not container */
   .content {
     margin-left: 0rem;
   }
+}
     
 @media (min-width: 64em) {
   .content {
     margin-left: 2rem;
   }
+}
 
 
 /* From Bootstrap */
