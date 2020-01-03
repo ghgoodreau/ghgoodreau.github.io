@@ -256,7 +256,6 @@ figure {
 /* Red */
 .theme-base-08 #sidebar-buttons {
   color: #ac4142;
-  fill: #ac4142;
 }
 
 @media (min-width: 48em) {
@@ -269,7 +268,6 @@ figure {
 /* Orange */
 .theme-base-09 #sidebar-buttons {
   color: #d28445;
-  fill: #d28445;
 }
 
 @media (min-width: 48em) {
@@ -282,7 +280,6 @@ figure {
 /* Yellow */
 .theme-base-0a #sidebar-buttons {
   color: #DCAC69; /*#f4bf75;*/
-  fill: #DCAC69;
 }
 
 @media (min-width: 48em) {
@@ -295,7 +292,6 @@ figure {
 /* Green */
 .theme-base-0b #sidebar-buttons {
   color: #90a959;
-  fill: #90a959;
 }
 
 @media (min-width: 48em) {
@@ -308,7 +304,6 @@ figure {
 /* Cyan */
 .theme-base-0c #sidebar-buttons {
   color: #75b5aa;
-  fill: #75b5aa;
 }
 
 @media (min-width: 48em) {
@@ -321,7 +316,6 @@ figure {
 /* Blue */
 .theme-base-0d #sidebar-buttons {
   color: #6a9fb5;
-  fill: #6a9fb5;
 }
 
 @media (min-width: 48em) {
@@ -334,7 +328,6 @@ figure {
 /* Magenta */
 .theme-base-0e #sidebar-buttons {
   color: #aa759f;
-  fill: #aa759f;
 }
 
 @media (min-width: 48em) {
@@ -347,7 +340,6 @@ figure {
 /* Brown */
 .theme-base-0f #sidebar-buttons {
   color: #8f5536;
-  fill: #8f5536;
 }
 
 @media (min-width: 48em) {
