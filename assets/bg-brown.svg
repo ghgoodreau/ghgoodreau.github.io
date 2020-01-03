@@ -3,6 +3,8 @@
     <style>
       .cls-1 {
         fill: #8f5536;
+        fill-opacity: 0.25;
+        mix-blend-mode: difference;
       }
     </style>
   </defs>
