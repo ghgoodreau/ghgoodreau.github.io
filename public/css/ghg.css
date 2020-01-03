@@ -57,9 +57,10 @@ h2, h3, h4, h5, h6 {
   .main {
      margin-left: 20rem;
      height: 100vh;
+     /* NOTE:
      background: white url('/assets/bg.svg') no-repeat bottom right;
      background-size: 70%;
-     overflow-y: auto;
+     overflow-y: auto; */
   }
 }
 
@@ -300,7 +301,22 @@ figure {
   fill: #8f5536;
 }
 
+@media (min-width: 48em) {
+.theme-base-0f .main {
+     background: white url('/assets/bg-brown.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
+
 /* Black (no class on body - Poole defaults) */
 #sidebar-buttons {
   color: #000000;
+}
+
+@media (min-width: 48em) {
+  .main {
+     background: white url('/assets/bg-base.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
 }
