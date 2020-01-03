@@ -254,49 +254,98 @@ figure {
 /* COLORS */
 
 /* Red */
-.theme-base-08 #sidebar-buttons, .theme-base-08 svg {
+.theme-base-08 #sidebar-buttons {
   color: #ac4142;
   fill: #ac4142;
 }
 
+@media (min-width: 48em) {
+.theme-base-08 .main {
+     background: white url('/assets/bg-red.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Orange */
-.theme-base-09 #sidebar-buttons, .theme-base-09 svg {
+.theme-base-09 #sidebar-buttons {
   color: #d28445;
   fill: #d28445;
 }
 
+@media (min-width: 48em) {
+.theme-base-09 .main {
+     background: white url('/assets/bg-orange.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Yellow */
-.theme-base-0a #sidebar-buttons, .theme-base-0a svg {
+.theme-base-0a #sidebar-buttons {
   color: #DCAC69; /*#f4bf75;*/
   fill: #DCAC69;
 }
 
+@media (min-width: 48em) {
+.theme-base-0a .main {
+     background: white url('/assets/bg-yellow.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Green */
-.theme-base-0b #sidebar-buttons, .theme-base-0b svg {
+.theme-base-0b #sidebar-buttons {
   color: #90a959;
   fill: #90a959;
 }
 
+@media (min-width: 48em) {
+.theme-base-0b .main {
+     background: white url('/assets/bg-green.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Cyan */
-.theme-base-0c #sidebar-buttons, .theme-base-0c svg {
+.theme-base-0c #sidebar-buttons {
   color: #75b5aa;
   fill: #75b5aa;
 }
 
+@media (min-width: 48em) {
+.theme-base-0c .main {
+     background: white url('/assets/bg-cyan.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Blue */
-.theme-base-0d #sidebar-buttons, .theme-base-0d svg {
+.theme-base-0d #sidebar-buttons {
   color: #6a9fb5;
   fill: #6a9fb5;
 }
 
+@media (min-width: 48em) {
+.theme-base-0d .main {
+     background: white url('/assets/bg-blue.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Magenta */
-.theme-base-0e #sidebar-buttons, .theme-base-0e svg {
+.theme-base-0e #sidebar-buttons {
   color: #aa759f;
   fill: #aa759f;
 }
 
+@media (min-width: 48em) {
+.theme-base-0e .main {
+     background: white url('/assets/bg-magenta.svg') no-repeat bottom right;
+     background-size: 70%;
+     overflow-y: auto;
+}
+
 /* Brown */
-.theme-base-0f #sidebar-buttons, .theme-base-0f svg {
+.theme-base-0f #sidebar-buttons {
   color: #8f5536;
   fill: #8f5536;
 }
