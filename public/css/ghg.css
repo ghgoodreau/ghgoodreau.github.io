@@ -258,16 +258,17 @@ figure {
   color: #ac4142;
 }
 
-/* NOTE: testing button fix */
+/* NOTE: testing button fix
 .theme-base-08 a.btn-outline {
     color: #ac4142;
-}
+} */
 
 @media (min-width: 48em) {
-.theme-base-08 .main {
-     background: white url('/assets/bg-red.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-08 .main {
+        background: white url('/assets/bg-red.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Orange */
@@ -275,16 +276,17 @@ figure {
   color: #d28445;
 }
 
-/* NOTE: testing button fix */
+/* NOTE: testing button fix
 .theme-base-09 a.btn-outline {
     color: #d28445;
-}
+} */
 
 @media (min-width: 48em) {
-.theme-base-09 .main {
-     background: white url('/assets/bg-orange.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-09 .main {
+        background: white url('/assets/bg-orange.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Yellow */
@@ -293,10 +295,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-.theme-base-0a .main {
-     background: white url('/assets/bg-yellow.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-0a .main {
+        background: white url('/assets/bg-yellow.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Green */
@@ -305,10 +308,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-.theme-base-0b .main {
-     background: white url('/assets/bg-green.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-0b .main {
+        background: white url('/assets/bg-green.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Cyan */
@@ -317,10 +321,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-.theme-base-0c .main {
-     background: white url('/assets/bg-cyan.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-0c .main {
+        background: white url('/assets/bg-cyan.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Blue */
@@ -329,10 +334,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-.theme-base-0d .main {
-     background: white url('/assets/bg-blue.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-0d .main {
+        background: white url('/assets/bg-blue.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Magenta */
@@ -341,10 +347,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-.theme-base-0e .main {
-     background: white url('/assets/bg-magenta.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-0e .main {
+        background: white url('/assets/bg-magenta.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 /* Brown */
@@ -353,10 +360,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-.theme-base-0f .main {
-     background: white url('/assets/bg-brown.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
+   .theme-base-0f .main {
+        background: white url('/assets/bg-brown.svg') no-repeat bottom right;
+        background-size: 70%;
+        overflow-y: auto;
+   }
 }
 
 
@@ -370,4 +378,5 @@ figure {
      background: white url('/assets/bg-base.svg') no-repeat bottom right;
      background-size: 70%;
      overflow-y: auto;
+   }
 }
