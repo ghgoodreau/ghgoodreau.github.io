@@ -258,6 +258,11 @@ figure {
   color: #ac4142;
 }
 
+/* NOTE: testing button fix */
+.theme-base-08 a.btn-outline {
+    color: #ac4142;
+}
+
 @media (min-width: 48em) {
 .theme-base-08 .main {
      background: white url('/assets/bg-red.svg') no-repeat bottom right;
@@ -268,6 +273,11 @@ figure {
 /* Orange */
 .theme-base-09 #sidebar-buttons {
   color: #d28445;
+}
+
+/* NOTE: testing button fix */
+.theme-base-09 a.btn-outline {
+    color: #d28445;
 }
 
 @media (min-width: 48em) {
