@@ -13,11 +13,11 @@ I recently completed phase 1 of the Amazon Software Development Engineer Intern 
 
 To be fair, I did not expect to get this internship. I just did not expect to be eliminated during the first round. It feels a little bit crushing, but it also points me in the direction of where I need to go. This failure will refocus me. I have thought of three things I can do to help prevent this from happening again.
 
-- Grinding LeetCode
+- Grinding [LeetCode](https://leetcode.com/)
 
   This is the most straightforward approach to solving coding interview problems. They are organized into difficulty categories so I can progress my way up, and they are in small chunks where I can do them at a nice pace (thinking one a day for now). Most of them rely on extremely important concepts that can translate well into other similar problems, which will give me an edge if I experience something similar in an interview, and I am able to use a similar strategy.
 
-- Reading/working through 'Cracking the Coding Interview'
+- Reading/working through ['Cracking the Coding Interview'](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
   This is another straightforward solution. This book is widely known as one of the best ways to prepare for coding interviews. It is featured in Java, my current favorite language, and the one I know the best, and it features an insane amount of problems. It also covers Data Structures and Algorithms, which is HUGELY important for getting a job as a software engineer. This book will prove to be invaluable.
 
@@ -37,4 +37,4 @@ The most important thing, to me, is to enjoy a little bit of each day doing thin
 
 This one is more cliche, but it is necessary. I need to take better care of my body. I do enjoy working out for the record. I just get lost doing my daily routine of working and studying, and then I don't have time. This needs to change.
 
-I recently sprained my wrist and went to the doctor to rule out a fracture by getting an X-Ray. They said my wrist wasn't broken, but that my blood pressure is high. I'm 23 years old. This is unacceptable. Cardio must be done. I am confident I can get it back to normal levels just by working out and consuming less caffeine. I will continue to monitor it while I start my fitness routine.
+I recently sprained my wrist while snowboarding in Lake Tahoe and went to the doctor to rule out a fracture by getting an X-Ray. They said my wrist wasn't broken, but that my blood pressure is high. I'm 23 years old. This is unacceptable. Cardio must be done. I am confident I can get it back to normal levels just by working out and consuming less caffeine. I will continue to monitor it while I start my fitness routine.
