@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Year
+title: Resolutions
 excerpt_separator: <!--end-excerpt-->
 ---
 I am not usually one for resolutions. I have never actually made one. I find most of them silly and unrealistic. However, I am finding myself in an awkward position this year, so I have decided I am going to try it. As a 23-year-old who works and studies full time, I have found it very easy to fall into a rut and let the days slip by. I have not been enjoying them like I should, and at the same time, I have not been as productive as I should. This list of micro-resolutions should do the trick.
