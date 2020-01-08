@@ -310,7 +310,7 @@ figure {
 }
 
 .theme-base-0a #sidebar-buttons {
-  color: #43484C; /* #DCAC69; #f4bf75;*/
+  color: #43484C!important;/* #DCAC69; #f4bf75;*/
 }
 
 @media (min-width: 48em) {

@@ -2,8 +2,8 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #FFC700;
-        fill-opacity: 0.5;
+        fill: #43484C;
+        fill-opacity: 0.35;
         mix-blend-mode: difference;
       }
     </style>
