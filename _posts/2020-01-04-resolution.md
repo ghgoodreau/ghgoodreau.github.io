@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Resolutions
+title: New Year's Goals
 excerpt_separator: <!--end-excerpt-->
 ---
-I am not usually one for resolutions. I have never actually made one. I find most of them silly and unrealistic. However, I am finding myself in an awkward position this year, so I have decided I am going to try it. As a 23-year-old who works and studies full time, I have found it very easy to fall into a rut and let the days slip by. I have not been enjoying them like I should, and at the same time, I have not been as productive as I should. This list of micro-resolutions should do the trick.
+I am not typically one for resolutions at the start of a new year. [Some reports](https://www.forbes.com/sites/ashiraprossack1/2018/12/31/goals-not-resolutions/) say that up to 80% of "New Year's Resolutions" don't get accomplished. This could be for a wide number of reasons - most likely because they are unrealistic. It is tough to go from 0 to 100 when it comes to making habits that last. You have to work on them for a time. So, instead of calling these resolutions, I will call them actionable goals. The goal is to do something simple every day to keep building on the days before it to eventually achieve what I want to achieve. I have made a list here that I think will put me on the right track to become the person I want to be.
 
 <!--end-excerpt-->
 
@@ -29,12 +29,12 @@ To be fair, I did not expect to get this internship. I just did not expect to be
 
 ## Spending more time enjoying myself
 
-As a full-time employee and student, I have honestly been ignoring my mental health pretty severely. I work, I come home, I study, I sleep. I eat whenever I can, and I don't work out. My health has suffered, and so has my mood. But it does not have to be this way. Each day, I have plenty of time to do these essential things.
+As a full-time employee and student, I have honestly been ignoring my mental health pretty severely. I work, I come home, I study, I sleep. I eat whenever I can, and I don't work out. My mood has surely suffered because of this, but it does not have to be this way. Each day, I have plenty of time to do things that I want to do.
 
-The most important thing, to me, is to enjoy a little bit of each day doing things that I love. That can mean video games, watching movies, sitting in silence, playing guitar. It doesn't actually matter what I do. The only strict policy I am going to develop here is that I want to do SOMETHING for 30 minutes a day that I don't have to do.
+The most important thing, to me, is to enjoy a little bit of each day doing things that I love. That can mean video games, watching movies, sitting in silence, playing guitar. It doesn't actually matter what I do. The only strict policy I am going to develop here is that I want to do SOMETHING for 30 minutes a day that has no added benefit other than making me happy.
 
 ## Working on my fitness
 
-This one is more cliche, but it is necessary. I need to take better care of my body. I do enjoy working out for the record. I just get lost doing my daily routine of working and studying, and then I don't have time. This needs to change.
+This one is more cliche, but it is necessary. I need to take better care of my body. I do enjoy working out, but I have been letting my work and school bleed into that a little. It has been hard to find the time. That is going to change.
 
-I recently sprained my wrist while snowboarding in Lake Tahoe and went to the doctor to rule out a fracture by getting an X-Ray. They said my wrist wasn't broken, but that my blood pressure is high. I'm 23 years old. This is unacceptable. Cardio must be done. I am confident I can get it back to normal levels just by working out and consuming less caffeine. I will continue to monitor it while I start my fitness routine.
+I recently sprained my wrist while snowboarding in Lake Tahoe and went to the doctor to rule out a fracture by getting an X-Ray. They said my wrist wasn't broken, but that my blood pressure is higher than it should be. I'm 23 years old. I will not accept this. I'm going to have to start doing cardio. I am confident I can get it back to normal levels just by working out and consuming less caffeine. I will continue to monitor it while I start my fitness routine.
