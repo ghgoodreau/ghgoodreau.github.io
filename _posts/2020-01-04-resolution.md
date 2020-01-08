@@ -3,7 +3,7 @@ layout: post
 title: New Year's Goals
 excerpt_separator: <!--end-excerpt-->
 ---
-I am not typically one for resolutions at the start of a new year. [Some reports](https://www.forbes.com/sites/ashiraprossack1/2018/12/31/goals-not-resolutions/) say that up to 80% of "New Year's Resolutions" don't get accomplished. This could be for a wide number of reasons - most likely because they are unrealistic. It is tough to go from 0 to 100 when it comes to making habits that last. You have to work on them for a time. So, instead of calling these resolutions, I will call them actionable goals. The goal is to do something simple every day to keep building on the days before it to eventually achieve what I want to achieve. I have made a list here that I think will put me on the right track to become the person I want to be.
+I am not typically one for resolutions at the start of a new year. [Some reports](https://www.forbes.com/sites/ashiraprossack1/2018/12/31/goals-not-resolutions/) say that up to 80% of new year's resolutions don't get accomplished. This could be for a vast number of reasons - most likely because they are unrealistic. It is tough to go from 0 to 100 when it comes to making habits that last. It is best if you work on a habit for quite a long time to get it to stick. So, instead of calling these resolutions, I will call them actionable goals. The goal is to do something simple every day to keep building on the days before it to eventually achieve what I want to achieve. I have made a list here that I think will put me on the right track to become the person I want to be.
 
 <!--end-excerpt-->
 
