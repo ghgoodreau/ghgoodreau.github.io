@@ -294,6 +294,8 @@ figure {
 }
 
 /* Yellow // RAMA WORKS THEME */
+
+/* SCRAPPED RAMA THEME FOR NOW DUE TO BUTTON BUG - CIRCLE BACK LATER
 .theme-base-0a .sidebar {
    background-color: #43484C;
 }
@@ -308,14 +310,16 @@ figure {
 .theme-base-0a .sidebar a {
    color: #FFC700;
 }
-
+*/
 .theme-base-0a #sidebar-buttons {
-  color: #43484C; /* #DCAC69; #f4bf75;*/
+  color: #DCAC69 ; /* RAMA GREY , #f4bf75;*/
 }
 
+/*
 .theme-base-0a a.btn-social {
    color: #43484C;
 }
+*/
 
 @media (min-width: 48em) {
    .theme-base-0a .main {
