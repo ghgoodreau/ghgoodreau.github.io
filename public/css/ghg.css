@@ -294,10 +294,6 @@ figure {
 }
 
 /* Yellow // RAMA WORKS THEME */
-.theme-base-0a #sidebar-buttons {
-  color: #43484C !important /* #DCAC69; #f4bf75;*/
-}
-
 .theme-base-0a .sidebar {
    background-color: #43484C;
 }
@@ -312,6 +308,11 @@ figure {
 .theme-base-0a .sidebar a {
    color: #FFC700;
 }
+
+.theme-base-0a #sidebar-buttons {
+  color: #43484C; /* #DCAC69; #f4bf75;*/
+}
+
 @media (min-width: 48em) {
    .theme-base-0a .main {
         background: white url('/assets/bg-yellow.svg') no-repeat bottom right;
