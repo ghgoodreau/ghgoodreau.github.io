@@ -22,9 +22,10 @@ Some fun facts about me:
 - I was eliminated in the final round of an elementary school spelling bee because I misspelled buffet. I still think about it.
 
 
-Some technologies I have been working with:
+Some languages I have been working with:
 
+- Java
 - HTML
 - CSS
-- Javascript
-- Java
+- JavaScript
+- R/RStudio
