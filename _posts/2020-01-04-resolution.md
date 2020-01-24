@@ -1,17 +1,17 @@
 ---
 layout: post
-title: New Year's Goals
+title: New Year's Resolutions
 excerpt_separator: <!--end-excerpt-->
 ---
-I am not typically one for resolutions at the start of a new year. [Some reports](https://www.forbes.com/sites/ashiraprossack1/2018/12/31/goals-not-resolutions/) say that up to 80% of new year's resolutions don't get accomplished. This could be for a vast number of reasons - most likely because they are unrealistic. It is tough to go from 0 to 100 when it comes to making habits that last. It is best if you work on a habit for quite a long time to get it to stick. So, instead of calling these resolutions, I will call them actionable goals. The goal is to do something simple every day to keep building on the days before it to eventually achieve what I want to achieve. I have made a list here that I think will put me on the right track to become the person I want to be.
+I am not typically one for resolutions at the start of a new year. [Some reports](https://www.forbes.com/sites/ashiraprossack1/2018/12/31/goals-not-resolutions/) say that up to 80% of new year's resolutions don't get accomplished. With that being said... here is a list of changes I am making this year.
 
 <!--end-excerpt-->
 
 ## Preparing to break into the tech industry
 
-I recently completed phase 1 of the Amazon Software Development Engineer Intern online assessment. I use the term "completed" very loosely because I only got 2 out of 7 problems correct. This test focused mainly on debugging simple programs in C, C++, or Java (naturally, I chose Java). Once I pressed 'Begin,' I found myself flustered. I was incredibly nervous, and I was overthinking every problem. Looking back, I knew the answers to all of them. I just didn't have enough time. And that is going to be a problem.
+I recently completed phase 1 of the Amazon Software Development Engineer Intern online assessment. I use the term "completed" very loosely because I only got 2 out of 7 problems 100% correct. This test focused mainly on debugging simple programs in C, C++, or Java (naturally, I chose Java). Once I pressed 'Begin,' I found myself flustered. I was incredibly nervous, and I was overthinking every problem. Looking back, I knew the answers to all of them. I just didn't have enough time. And that is going to be a problem.
 
-To be fair, I did not expect to get this internship. I just did not expect to be eliminated during the first round. It feels a little bit crushing, but it also points me in the direction of where I need to go. This failure will refocus me. I have thought of three things I can do to help prevent this from happening again.
+To be fair, I did not expect to get this internship. I just did not expect to be eliminated during the first round. It feels bad, but it also points me in the direction of where I need to go. It reocused me. I have thought of three things I can do to help prevent this from happening again.
 
 - Grinding [LeetCode](https://leetcode.com/)
 
@@ -25,16 +25,14 @@ To be fair, I did not expect to get this internship. I just did not expect to be
 
 - Working on passion projects
 
-  This is less straightforward, and I don't have any project ideas. However, this could prove to be more valuable than the other two items. This could cause me to gain specific knowledge in an area of software that I am truly interested in, which could lead me to find more fulfilling opportunities later down the road. This could also lead me to be happier because I would likely enjoy my time more, which leads me to the second resolution that I have...
+  This is less straightforward. However, this could prove to be more valuable than the other two items. This could cause me to gain specific knowledge in an area of software that I am truly interested in, which could lead me to find more fulfilling opportunities later down the road. I could also end up creating something that can actually help people. 
 
 ## Spending more time enjoying myself
 
-As a full-time employee and student, I have honestly been ignoring my mental health pretty severely. I work, I come home, I study, I sleep. I eat whenever I can, and I don't work out. My mood has surely suffered because of this, but it does not have to be this way. Each day, I have plenty of time to do things that I want to do.
+As a full-time employee and student, I have been ignoring time for self care. I work, I come home, I study, I sleep. I eat whenever I can, and I don't work out. My mood has surely suffered because of this, but it doesn't have to be that way. Every day, I have plenty of time to do things that I want to do.
 
-The most important thing, to me, is to enjoy a little bit of each day doing things that I love. That can mean video games, watching movies, sitting in silence, playing guitar. It doesn't actually matter what I do. The only strict policy I am going to develop here is that I want to do SOMETHING for 30 minutes a day that has no added benefit other than making me happy.
+The most important thing to me is to enjoy a little bit of each day doing things that I love. That can mean video games, watching movies, sitting in silence, playing guitar. It doesn't actually matter what I do. The only policy is that for 30 minutes every day, there is no policy. I will allow myself to do what I want to do.
 
 ## Working on my fitness
 
-This one is more cliche, but it is necessary. I need to take better care of my body. I do enjoy working out, but I have been letting my work and school take over my life and I have not had enough energy to get good workouts in. I need to change this, as I do not have the body that I want to have.
-
-Also, I recently sprained my wrist while snowboarding in Lake Tahoe and went to the doctor to rule out a fracture by getting an X-Ray. They said my wrist wasn't broken, but that my blood pressure is higher than it should be. To be fair, this could be due to a number of reasons - white coat anxiety, stress of the day, or caffeine I had consumed an hour prior. However, if I really do have higher than normal blood pressure, I will not accept this. I'm 23 years old at the time of writing this. I'm going to have to start doing cardio. I am confident I can get it back to normal levels just by working out and consuming less caffeine. I will continue to monitor it while I start my fitness routine to see if that changes anything or if it was (hopefully) just an abnormal reading.
+This one is more cliche, but it is necessary. I need to take better care of my body. I do enjoy working out, but I have been letting my work and school take over my life and I have not had enough energy to get good workouts in. I need to change this, because working out genuinely makes me happy and I want to live a long, healthy life.
