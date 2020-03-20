@@ -15,7 +15,7 @@ Staying in my apartment all day working at my desk has presented a challenge in 
 
 Social interaction is a difficult thing to find when you are alone in your apartment. Luckily, I have a bunch of friends across the country that I am able to play games with on discord. This has been fundamental in keeping me sane. Talking to them about their experiences and having fun has been huge for me. I also work with a great team of people and we interact all day through a slack channel. It's not as good as face to face interaction, but it's gotten me through self-isolation so far.
 
-## Staying informed but not overinformed
+## Staying informed (but not overinformed)
 
 Constantly being inundated with articles and tweets about the pandemic can leave you feeling anxious. Staying informed is important during a time like this, but a constant wave of information and opinions beamed directly into your eyeballs can only do so much before it starts to damage you. I have combated this by limiting my social media use and getting most of my information from detailed updates from my family, friends, and ['The New Paper'](https://www.thenewpaper.co/). This is a daily newsletter with condensed news articles that is sent to your email for free. I love it because I don't have to filter through a bunch of stuff to get the big updates. I'm sure I'm missing stuff, but I've decided to be okay with that.
 
