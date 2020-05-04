@@ -9,17 +9,7 @@ I graduated from [Auburn University](https://www.auburn.edu/) in December of 201
 I am slated to graduate in the spring of 2021. My goal is to continue through a master's degree in Computer Science and to work on exciting and challenging problems. I believe that the field of computer science contains limitless possibilities, so it is the path that I have chosen.
 
 
-In the meantime, while I continue my studies, I am seeking an internship (or a full-time job) where I can work hands-on with new technologies and absorb everything I can.
-
-
-Some fun facts about me:
-
-- I am a student pilot.
-- Seeing a [good movie](https://www.rottentomatoes.com/m/uncut_gems) at the theater is one of my favorite things to do.
-- I am an avid international backpacker.
-- I still want to be an astronaut.
-- I love [video games](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion).
-- I was eliminated in the final round of an elementary school spelling bee because I misspelled buffet. I still think about it.
+In the meantime, while I continue my studies, I am seeking an internship/co-op (or a full-time job) where I can work hands-on with new technologies, contribute to a valuable product, and learn all the lessons that I can.
 
 
 Some languages I have been working with:
@@ -28,4 +18,14 @@ Some languages I have been working with:
 - HTML
 - CSS
 - JavaScript
-- R/RStudio
+- C#
+
+Hobbies:
+
+- Flying (I am a student pilot)
+- Running
+- Cooking
+- Video games
+- Listening to audiobooks
+
+Follow my [Instagram account!](https://www.instagram.com/ghgoodreau/)

@@ -25,7 +25,7 @@ To be fair, I did not expect to get this internship. I just did not expect to be
 
 - Working on passion projects
 
-  This is less straightforward. However, this could prove to be more valuable than the other two items. This could cause me to gain specific knowledge in an area of software that I am truly interested in, which could lead me to find more fulfilling opportunities later down the road. I could also end up creating something that can actually help people. 
+  This is less straightforward. However, this could prove to be more valuable than the other two items. This could cause me to gain specific knowledge in an area of software that I am truly interested in, which could lead me to find more fulfilling opportunities later down the road. I could also end up creating something that can actually help people.
 
 ## Spending more time enjoying myself
 

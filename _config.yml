@@ -6,13 +6,17 @@ highlighter:      rouge
 # Permalinks
 permalink:        pretty
 
+# Collections
+collections:
+  - projects
+  
 # Setup
 title:            'Gregory Hunter Goodreau'
 initials:         'GHG'
 #tagline:          'Gregory Hunter Goodreau'
 description:      'Computer science student and software developer'
 url:              http://ghgoodreau.github.io
-baseurl:          /
+# baseurl:          /
 
 author:
   name:           'Gregory Goodreau'

@@ -1,5 +1,21 @@
-/* Heavily inspired by http://vakila.github.io/ */
+/* inspired by http://vakila.github.io/ */
 /* Basics */
+
+@font-face {
+  font-family: "Gimlet-Bold-Edu";
+  src: url("fonts/GimletDisplay-Bold-Edu.woff");
+}
+
+@font-face {
+  font-family: "Gimlet-Edu";
+  src: url("fonts/GimletDisplay-Regular-Edu.woff");
+}
+
+@font-face {
+  font-family: "Input-Narrow-Edu";
+  src: url("fonts/InputSansNarrow-Regular-Edu.woff");
+}
+
 .center-align {
     text-align: center;
 }
@@ -15,17 +31,19 @@
 /* Font */
 html {
     font-family: 'Roboto', sans-serif;
+    /* font-family: 'Input-Narrow-Edu'; */
 }
 
-.sidebar-about h1 {
-    font-family: 'Roboto Slab', serif;
+
+.sidebar {
+  font-family: 'Input-Narrow-Edu';
 }
 
-h1 {
-    font-family: 'Roboto Slab', serif;
+.sidebar h1 {
+  font-family: 'Gimlet-Edu';
 }
 
-/*h1, /*h2, h3, h4, h5, h6 {
+/*h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
 }*/
 
