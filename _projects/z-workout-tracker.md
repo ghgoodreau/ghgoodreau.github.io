@@ -5,4 +5,4 @@ website: "https://github.com/ghgoodreau/WorkoutTracker"
 skills: ["Java"]
 ---
 
-This workout tracker was inspired by my inability to go to the gym due to COVID-19. I felt the need to make a simple terminal application for when I am able to get back to working out. All of the mobile apps I have tried are overengineered and complicated, and I find myself using 0.5% of their capabilities. This records maxes for OHP, Squats, Deadlifts, Bench, Chinups, and Rows, and exports them into a csv for statistical tracking. Click on the title for source code and additional documentation, as well as future goals for the program.
+This simple workout tracker records daily maxes for OHP, Squats, Deadlifts, Bench, Chinups, and Rows, and exports them into a csv for statistical tracking. Click on the title for source code and additional documentation, as well as future goals for the program.
