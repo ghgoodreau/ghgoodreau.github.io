@@ -1,0 +1,2 @@
+I"z<p>Deployed via this ansible script, this Python/Flask based image gallery web application allows users to upload and view images on our site. With login authentication it ensures the privacy of the user’s photos. It is hosted on AWS EC2 instances in an AWS VPC, which we have set up via the Ansible script to load balance and scale if a certain traffic threshold is met.</p>
+:ET

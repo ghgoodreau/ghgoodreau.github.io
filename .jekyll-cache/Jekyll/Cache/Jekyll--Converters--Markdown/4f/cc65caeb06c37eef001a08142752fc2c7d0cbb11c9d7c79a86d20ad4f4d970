@@ -1,4 +1,20 @@
-I"s<div class="projects">
+I"6<div class="projects">
+  
+  <div class="project post">
+    <h2 class="project-title post-title">
+      <a href="https://github.com/ghgoodreau/python-image-gallery">
+        Python Image Gallery
+      </a>
+    </h2>
+    <span class="project-tagline post-date">
+        Image Gallery hosted on an AWS EC2 VPC with autoscaling and Ansible automation
+    </span>
+
+    <p>Deployed via this ansible script, this Python/Flask based image gallery web application allows users to upload and view images on our site. With login authentication it ensures the privacy of the user’s photos. It is hosted on AWS EC2 instances in an AWS VPC, which we have set up via the Ansible script to load balance and scale if a certain traffic threshold is met.</p>
+
+
+
+  </div>
   
   <div class="project post">
     <h2 class="project-title post-title">
@@ -26,7 +42,7 @@
         One day build for a Workout Tracker based off of the Greyskull LP workout routine.
     </span>
 
-    <p>This workout tracker was inspired by my inability to go to the gym due to COVID-19. I felt the need to make a simple terminal application for when I am able to get back to working out. All of the mobile apps I have tried are overengineered and complicated, and I find myself using 0.5% of their capabilities. This records maxes for OHP, Squats, Deadlifts, Bench, Chinups, and Rows, and exports them into a csv for statistical tracking. Click on the title for source code and additional documentation, as well as future goals for the program.</p>
+    <p>This simple workout tracker records daily maxes for OHP, Squats, Deadlifts, Bench, Chinups, and Rows, and exports them into a csv for statistical tracking. Click on the title for source code and additional documentation, as well as future goals for the program.</p>
 
 
 
