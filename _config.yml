@@ -9,12 +9,12 @@ permalink:        pretty
 # Collections
 collections:
   - projects
-  
+
 # Setup
 title:            'Gregory Hunter Goodreau'
 initials:         'GHG'
 #tagline:          'Gregory Hunter Goodreau'
-description:      'Computer science student and software developer'
+description:      'Computer science student and software engineer'
 url:              http://ghgoodreau.github.io
 # baseurl:          /
 
