@@ -272,20 +272,28 @@ code table, code td {
 figure {
   margin: 0;
 }
+
+/* headshot on about me page */
 #hunter-headshot {
-  /* border-radius: 50%; */
+  border-radius: 50%;
   display: block;
-  /* margin-left: 5%; */
 }
+/* mobile headshot styling */
 @media (max-width: 48em) {
   .page-title {
     text-align: center;
   }
   #hunter-headshot {
-    border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+/* desktop headshot styling */
+@media (min-width: 48em) {
+  #hunter-headshot {
+    float: left;
+    margin-right: 2em;
   }
 }
 
