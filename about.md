@@ -3,42 +3,34 @@ layout: page
 title: About Me
 ---
 
-<img id="hunter-headshot" src="/assets/ghgheadshot.jpg" alt="Hunter Goodreau" title="Hunter Goodreau" width="200" height="200"/>
+<img id="hunter-headshot" src="/assets/avi.jpeg" alt="Hunter Goodreau" title="Hunter Goodreau" width="200" height="200"/>
 
-Hey! I'm Gregory Hunter Goodreau. You can call me Hunter.
+Hey! I'm Hunter Goodreau.
 
-I graduated from [Auburn University](https://www.auburn.edu/) in December of 2018 with a bachelor's degree in [Biomedical Sciences](https://en.wikipedia.org/wiki/Biomedical_sciences). I am currently pursuing my second bachelor's degree from Auburn in [Computer Science](https://en.wikipedia.org/wiki/Computer_science), while also working as a full-time software engineer contractor for the Navy.
+I'm a full stack engineer at [Zoom](https://zoom.us), concentrating on front end development. I mainly write in Typescript/React for the [Zoom Events](https://events.zoom.us) platform. Currently, I'm focused on increasing platform stability through unit testing and providing an excellent user experience by iterating upon and implementing new features.
 
+I graduated from [Auburn University](https://www.auburn.edu/) in May 2021 with a post-bachelor's degree in [Computer Science](https://en.wikipedia.org/wiki/Computer_science), during which I worked full time. I also hold a bachelor's degree in [Biomedical Sciences](https://en.wikipedia.org/wiki/Biomedical_sciences), which was my first passion.
 
-I graduate in the spring of 2021. My goal is to continue through a master's degree in Computer Science and to work on exciting and challenging problems. In the meantime, while I continue working and studying, I am looking for new and exciting career opportunities working remotely or in NYC.
+I'm located in Florida, though I'll be relocating to Chicago in the next few months. I am passionate about flying, video games (including indie development), [film](https://letterboxd.com/hgoood/), and recently, web3.0. I love making new friends, so please reach out if you share my interests!
 
+## Languages
 
-Languages I've worked with
---------------------------
-
+- Typescript
+- CSS
+- HTML
 - Java
 - Python
-- Javascript
 - Swift
-- HTML
-- CSS
 - C#
 
-Technologies I've worked with
------------------------------
+## Technologies
 
-- Flask
+- React
+- Jest
+- GitLab
+- Jenkins
 - AWS
-- Xcode
 - Ansible
-
-Hobbies of mine
----------------
-
-- Flying (I'm a student pilot)
-- Running
-- Cooking
-- Video games
-- Audiobooks
+- Flask
 
 Thanks for reading! ✨
