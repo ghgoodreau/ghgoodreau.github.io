@@ -17,21 +17,21 @@
 }
 
 .center-align {
-    text-align: center;
+  text-align: center;
 }
 
 .left-align {
-    text-align: left;
+  text-align: left;
 }
 
 .right-align {
-    text-align: right;
+  text-align: right;
 }
 
 /* Font */
 html {
-    font-family: 'Roboto', sans-serif;
-    /* font-family: 'Input-Narrow-Edu'; */
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Input-Narrow-Edu'; */
 }
 
 
@@ -49,10 +49,14 @@ html {
 
 .content h1 {
   font-size: 2rem;
-  padding-top:0.5rem;
+  padding-top: 0.5rem;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 1.5em;
   margin-bottom: .5em;
 }
@@ -60,7 +64,9 @@ h2, h3, h4, h5, h6 {
 
 /* Override Hyde/Poole */
 @media (min-width: 48em) {
-  .content, .container {
+
+  .content,
+  .container {
     max-width: none;
   }
 }
@@ -70,16 +76,16 @@ h2, h3, h4, h5, h6 {
     width: 20rem;
     height: 100vh;
     overflow-y: auto;
-    padding-top:4rem;
+    padding-top: 4rem;
   }
 }
 
 /* trying to style main for BG */
 @media (min-width: 48em) {
   .main {
-     margin-left: 20rem;
-     height: 100vh;
-     /* NOTE:
+    margin-left: 20rem;
+    height: 100vh;
+    /* NOTE:
      background: white url('/assets/bg.svg') no-repeat bottom right;
      background-size: 70%;
      overflow-y: auto; */
@@ -103,45 +109,46 @@ to only content and not container */
 
 /* From Bootstrap */
 .list-inline {
-    padding-left: 0;
-    list-style: none;
-    margin-left: -5px;
-    display: flex;
-    justify-content: space-between;
+  padding-left: 0;
+  list-style: none;
+  margin-left: -5px;
+  display: flex;
+  justify-content: space-between;
 }
 
 /* Adapted from Alexandre Vicenzi https://alexandrevicenzi.com/ */
 .btn-social {
-    display: inline-block;
-    border: 2px solid #fff;
-    border-radius: 100%;
-    text-align: center;
-    width: 2.5em;
-    height: 2.5em;
-    font-size: 2em;
-    line-height: 2.5em;
+  display: inline-block;
+  border: 2px solid #fff;
+  border-radius: 100%;
+  text-align: center;
+  width: 2.5em;
+  height: 2.5em;
+  font-size: 2em;
+  line-height: 2.5em;
 }
 
 
 .btn-outline {
-    margin-top: 3vh;
-    border: solid 2px #fff;
-    font-size: 1em;
-    /*transition: all .3s ease-in-out;*/
-    background: #fff;
+  margin-top: 3vh;
+  border: solid 2px #fff;
+  font-size: 1em;
+  /*transition: all .3s ease-in-out;*/
+  background: #fff;
 }
+
 a.btn-outline {
-    color: inherit;
+  color: inherit;
 }
 
 .sidebar a:hover {
-    opacity: 0.7;
-    text-decoration: none;
+  opacity: 0.7;
+  text-decoration: none;
 }
 
 .sidebar a:active {
-    opacity: 0.5;
-    text-decoration: none;
+  opacity: 0.5;
+  text-decoration: underline;
 }
 
 #credits {
@@ -149,55 +156,56 @@ a.btn-outline {
 }
 
 #credits a {
-    opacity: 0.75;
-    text-decoration: none;
+  opacity: 0.75;
+  text-decoration: none;
 }
 
 /*a.btn-outline:active,*/
 a.btn-outline:hover {
-    opacity: .75;
-    background: 0;
-    color: #fff;
+  opacity: .75;
+  background: 0;
+  color: #fff;
 }
 
 a.btn-outline:active {
-    opacity: 1;
-    background: #fff;
-    color: inherit;
+  opacity: 1;
+  background: #fff;
+  color: inherit;
 }
 
 .blog-nav {
-    margin-top: -2em;
-    margin-bottom: .5em;
-    /*font-size: .75em;*/
-    text-align: center;
+  margin-top: -2em;
+  margin-bottom: .5em;
+  /*font-size: .75em;*/
+  text-align: center;
 }
 
 .page-title {
-    padding-bottom: 1em;
+  padding-bottom: 1em;
 }
 
 .post-subtitle {
-    color: #515151;
-    margin-top: -.5em;
-    margin-bottom: 1em;
+  color: #515151;
+  margin-top: -.5em;
+  margin-bottom: 1em;
 }
 
 /* this does some magic that preserves the 8.5x11" aspect ratio */
 .pdf-container {
-    height: 0;
-    width: 100%;
-    padding-bottom: 129.41%; /* 11/8.5 = 1.2941 */
-    overflow: hidden;
-    position: relative;
+  height: 0;
+  width: 100%;
+  padding-bottom: 129.41%;
+  /* 11/8.5 = 1.2941 */
+  overflow: hidden;
+  position: relative;
 }
 
 .pdf-container object {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 
@@ -214,19 +222,20 @@ a.btn-outline:active {
 
 /* this does some magic that preserves the 8.5x11" aspect ratio */
 .slide-container {
-    height: 0;
-    width: 100%;
-    padding-bottom: 72%; /* 11/8.5 = 1.2941 */
-    overflow: hidden;
-    position: relative;
+  height: 0;
+  width: 100%;
+  padding-bottom: 72%;
+  /* 11/8.5 = 1.2941 */
+  overflow: hidden;
+  position: relative;
 }
 
 .slide-container object {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 /* IMAGES & CAPTIONS */
@@ -236,10 +245,12 @@ img {
   font-style: italic;
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
+
 .caption {
   font-size: .75rem;
   font-style: normal;
 }
+
 .credit {
   font-size: .6rem;
   font-style: italic;
@@ -247,28 +258,38 @@ img {
 
 /* CODE */
 code {
-  color: inherit; /* code color matches text or link/title color */
+  color: inherit;
+  /* code color matches text or link/title color */
   white-space: nowrap;
 }
-pre > code, .code > pre {
-  white-space: pre; /* only code in <pre> blocks is allowed to wrap */
+
+pre>code,
+.code>pre {
+  white-space: pre;
+  /* only code in <pre> blocks is allowed to wrap */
 }
+
 pre {
   overflow-x: scroll;
   padding: 5px;
   white-space: pre;
 }
+
 .lineno {
   word-break: keep-all;
   padding: 0;
-  color: rgb(180,180,180);
+  color: rgb(180, 180, 180);
 }
-code > table {
+
+code>table {
   margin-bottom: 0;
 }
-code table, code td {
+
+code table,
+code td {
   border: none;
 }
+
 figure {
   margin: 0;
 }
@@ -278,17 +299,20 @@ figure {
   border-radius: 50%;
   display: block;
 }
+
 /* mobile headshot styling */
 @media (max-width: 48em) {
   .page-title {
     text-align: center;
   }
+
   #hunter-headshot {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 }
+
 /* desktop headshot styling */
 @media (min-width: 48em) {
   #hunter-headshot {
@@ -310,11 +334,11 @@ figure {
 } */
 
 @media (min-width: 48em) {
-   .theme-base-08 .main {
-        background: white url('/assets/bg-red.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-08 .main {
+    background: white url('/assets/bg-red.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Orange */
@@ -328,11 +352,11 @@ figure {
 } */
 
 @media (min-width: 48em) {
-   .theme-base-09 .main {
-        background: white url('/assets/bg-orange.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-09 .main {
+    background: white url('/assets/bg-orange.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Yellow // RAMA WORKS THEME */
@@ -354,7 +378,8 @@ figure {
 }
 */
 .theme-base-0a #sidebar-buttons {
-  color: #DCAC69 ; /* RAMA GREY , #f4bf75;*/
+  color: #DCAC69;
+  /* RAMA GREY , #f4bf75;*/
 }
 
 /*
@@ -364,11 +389,11 @@ figure {
 */
 
 @media (min-width: 48em) {
-   .theme-base-0a .main {
-        background: white url('/assets/bg-yellow.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-0a .main {
+    background: white url('/assets/bg-yellow.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Green */
@@ -377,11 +402,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-   .theme-base-0b .main {
-        background: white url('/assets/bg-green.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-0b .main {
+    background: white url('/assets/bg-green.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Cyan */
@@ -390,11 +415,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-   .theme-base-0c .main {
-        background: white url('/assets/bg-cyan.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-0c .main {
+    background: white url('/assets/bg-cyan.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Blue */
@@ -403,11 +428,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-   .theme-base-0d .main {
-        background: white url('/assets/bg-blue.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-0d .main {
+    background: white url('/assets/bg-blue.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Magenta */
@@ -416,11 +441,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-   .theme-base-0e .main {
-        background: white url('/assets/bg-magenta.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-0e .main {
+    background: white url('/assets/bg-magenta.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 /* Brown */
@@ -429,11 +454,11 @@ figure {
 }
 
 @media (min-width: 48em) {
-   .theme-base-0f .main {
-        background: white url('/assets/bg-brown.svg') no-repeat bottom right;
-        background-size: 70%;
-        overflow-y: auto;
-   }
+  .theme-base-0f .main {
+    background: white url('/assets/bg-brown.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
 
 
@@ -444,8 +469,8 @@ figure {
 
 @media (min-width: 48em) {
   .main {
-     background: white url('/assets/bg-base.svg') no-repeat bottom right;
-     background-size: 70%;
-     overflow-y: auto;
-   }
+    background: white url('/assets/bg-base.svg') no-repeat bottom right;
+    background-size: 70%;
+    overflow-y: auto;
+  }
 }
