@@ -16,7 +16,8 @@ initials: "GHG"
 #tagline:          'Gregory Hunter Goodreau'
 description: "Computer science student and software engineer"
 url: http://ghgoodreau.github.io
-projects_url: /projects
+projects_url: /projects/
+baseurl: /
 
 author:
   name: "Gregory Goodreau"

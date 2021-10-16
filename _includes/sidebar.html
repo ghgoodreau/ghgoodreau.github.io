@@ -8,10 +8,10 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">About
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About
         Me</a>
       <a class="sidebar-nav-item{% if page.url == site.projects_url %} active{% endif %}"
-        href="{{ site.baseurl }}{{site.projects_url}}">Projects</a>
+        href="{{site.projects_url}}">Projects</a>
 
       <!-- {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -57,6 +57,6 @@
       </li>
     </ul>
 
-    <p id="credits">&copy; {{ site.time | date: '%Y' }}. <a href="{{ site.baseurl }}/credits">Credits</a>.</p>
+    <p id="credits">&copy; {{ site.time | date: '%Y' }}. <a href="{{ site.baseurl }}credits">Credits</a>.</p>
   </div>
 </div>
