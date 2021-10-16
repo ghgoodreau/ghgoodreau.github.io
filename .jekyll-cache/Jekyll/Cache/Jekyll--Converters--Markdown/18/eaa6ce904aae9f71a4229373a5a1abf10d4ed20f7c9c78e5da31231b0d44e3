@@ -1,2 +1,0 @@
-I"‹<p>This web browser was built incrementally in VisualStudio with C#, MySQL, and Git. It took me 7 weeks. It has a bookmark and history manager, as well as back and forward navigation. The bookmark and history managers use table adapters to add, delete, and search through SQL tables for the bookmark and history items respectively. Click on the title for source code and more documentation.</p>
-:ET
